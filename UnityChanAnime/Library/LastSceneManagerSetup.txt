@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UnityChan/Scenes/ActionCheck.unity
+- path: Assets/__Local_Asset/UnityChanAnime_00.unity
   isLoaded: 1
   isActive: 1

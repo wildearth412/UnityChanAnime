@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityChanAnime", "UnityChanAnime.csproj", "{01CEB5EF-A6C8-8932-B92B-9EA0753FF9B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityChanAnime.Editor", "UnityChanAnime.Editor.csproj", "{A92F0D3E-8100-FE92-78A6-AFEC8322710B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{01CEB5EF-A6C8-8932-B92B-9EA0753FF9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01CEB5EF-A6C8-8932-B92B-9EA0753FF9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01CEB5EF-A6C8-8932-B92B-9EA0753FF9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92F0D3E-8100-FE92-78A6-AFEC8322710B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92F0D3E-8100-FE92-78A6-AFEC8322710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92F0D3E-8100-FE92-78A6-AFEC8322710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92F0D3E-8100-FE92-78A6-AFEC8322710B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
