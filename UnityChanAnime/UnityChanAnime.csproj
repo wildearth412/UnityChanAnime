@@ -81,7 +81,6 @@
     <Compile Include="Assets\Common\GlobalConfig.cs" />
     <Compile Include="Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs" />
     <Compile Include="Assets\Nurie\Scripts\Common\FadeCutOff.cs" />
-    <Compile Include="Assets\Nurie\Scripts\sugi\AfterEffect.cs" />
     <Compile Include="Assets\Reaktion\Gear\AnimatorGear.cs" />
     <Compile Include="Assets\Reaktion\Gear\CameraGear.cs" />
     <Compile Include="Assets\Reaktion\Gear\ConstantMotionGear.cs" />
@@ -135,7 +134,10 @@
     <Compile Include="Assets\_UnityChan_Asset\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\_UnityChan_Asset\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\_UnityChan_Asset\Scripts\UnityChanControlScriptWithRgidBody.cs" />
+    <Compile Include="Assets\__Local_Asset\script\ActionChange.cs" />
+    <Compile Include="Assets\__Local_Asset\script\AfterEffect.cs" />
     <Compile Include="Assets\__Local_Asset\script\InvertCamera.cs" />
+    <Compile Include="Assets\__Local_Asset\script\ObjectChange.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Lava_Flowing_Shader\ReadMe.txt" />
@@ -143,7 +145,6 @@
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
-    <None Include="Assets\Nurie\Shaders\AfterEffect.shader" />
     <None Include="Assets\Resources\Camera-DepthTexture.shader" />
     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ChromaticAberrationShader.shader" />
@@ -187,6 +188,7 @@
     <None Include="Assets\_UnityChan_Asset\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\_UnityChan_Asset\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\_UnityChan_Asset\license.txt" />
+    <None Include="Assets\__Local_Asset\shader\AfterEffect.shader" />
     <None Include="Assets\__Local_Asset\shader\UnlitShaderMoveUV.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

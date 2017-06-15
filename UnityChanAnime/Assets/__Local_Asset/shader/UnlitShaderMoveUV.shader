@@ -1,4 +1,4 @@
-﻿Shader "Unlit/UnlitShaderMoveUV"
+﻿Shader "Anime/Unlit/UnlitShaderMoveUV"
 {
 	Properties
 	{

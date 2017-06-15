@@ -161,7 +161,6 @@
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort_Transparent.shader" />
     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
-    <None Include="Assets\Nurie\Shaders\AfterEffect.shader" />
     <None Include="Assets\Resources\Camera-DepthTexture.shader" />
     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ChromaticAberrationShader.shader" />
@@ -205,6 +204,7 @@
     <None Include="Assets\_UnityChan_Asset\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\_UnityChan_Asset\Stage\Shader\AlphaMask.shader" />
     <None Include="Assets\_UnityChan_Asset\license.txt" />
+    <None Include="Assets\__Local_Asset\shader\AfterEffect.shader" />
     <None Include="Assets\__Local_Asset\shader\UnlitShaderMoveUV.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
